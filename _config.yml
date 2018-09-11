@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and is run and maintained by the students. We bring you 
   information from different teams in the student body onto a single place.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://51acres.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iiitdm_kancheep
 github_username:  51acres
 

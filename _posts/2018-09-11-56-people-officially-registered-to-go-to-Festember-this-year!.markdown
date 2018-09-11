@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "56 people officially registered to go to Festember this year !"
+title:  "56 people officially registered to go to Festember this year!"
 date:   2018-09-11 14:46:34 +0530
 categories: [cultural]
 tags: [cultural]
