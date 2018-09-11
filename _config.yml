@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The IIITDM Post
+title: 51 Acres
 email: general.affairs@iiitdm.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
-  The IIITDM Post is the unofficial news portal for IIITDM Kancheepuram, 
-  and is run and maintained by the students.The IIITDM Post brings you 
-  all information from different teams in the student body onto a single place.
+  51 Acres is the unofficial news portal for IIITDM Kancheepuram, 
+  and is run and maintained by the students. We bring you 
+  information from different teams in the student body onto a single place.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iiitdm_kancheep
-github_username:  IIITDM-Campus-News
+github_username:  51acres
 
 # Build settings
 markdown: kramdown

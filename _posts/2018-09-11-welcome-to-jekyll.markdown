@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "56 people officially registered to go to Festember this year !"
 date:   2018-09-11 14:46:34 +0530
-categories: jekyll update
+categories: [cultural]
+tags: [cultural]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
