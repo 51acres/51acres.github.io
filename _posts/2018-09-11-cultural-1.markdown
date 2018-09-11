@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SPIC-MACAY Chapter started in IIITDM"
+date:   2018-09-11 23:00:00 +0530
+categories: cultural
+---
+
+We have a new SPIC MACAY Chapter which has started in IIITDM Kancheepuram.
+More info on SPIC MACAY [here][spic-macay].
+
+[spic-macay]: http://www.spicmacay.com/
